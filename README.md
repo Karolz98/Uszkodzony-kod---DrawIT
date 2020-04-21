@@ -1,0 +1,2 @@
+# Uszkodzony kod - DrawIT
+ 
