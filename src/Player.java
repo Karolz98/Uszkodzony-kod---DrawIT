@@ -186,8 +186,8 @@ public class Player {//haslo to ostatni oktet adresu ip
         public PolaczenieOdKlienta() {
             try {
                 socket = new Socket(InetAddress.getByAddress(new byte[]{ oktetyIP[0],oktetyIP[1], oktetyIP[2], oktetyIP[3]}), 51724);
-                daneIN = new DataInputStream(socket.getInputStream());
-                daneOUT = new DataOutputStream(socket.getOutputStream());
+                daneIN = //////
+                daneOUT =/////
                 playerID = daneIN.readShort();
                 seed = daneIN.readInt();
                 this.start();
