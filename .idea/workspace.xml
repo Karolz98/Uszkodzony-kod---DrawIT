@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba91b656-239a-420c-9e39-459483440ac0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1a1eeAhY440sm8zOHif5TA64mwi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="255" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="239" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../~!~/Semestr 3/PO/Official Saboteur/Sabotażysta" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\Desktop\Studia\JPWP\-Draw-It-Project\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GraGUI">
+    <configuration name="BasicPaint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicPaint" />
+      <module name="-Draw-It-Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraGUI" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GraGUI" />
+      <module name="-Draw-It-Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaPaintUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPaintUI" />
+      <module name="-Draw-It-Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Player" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Player" />
+      <module name="-Draw-It-Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Server" />
+      <module name="-Draw-It-Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BasicPaint" />
+      <item itemvalue="Application.GraGUI" />
+      <item itemvalue="Application.JavaPaintUI" />
+      <item itemvalue="Application.Player" />
+      <item itemvalue="Application.Server" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GraGUI" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.Player" />
+        <item itemvalue="Application.JavaPaintUI" />
+        <item itemvalue="Application.BasicPaint" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba91b656-239a-420c-9e39-459483440ac0" name="Default Changelist" comment="" />
+      <created>1585907619495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585907619495</updated>
+      <workItem from="1586701496276" duration="863000" />
+      <workItem from="1586702595957" duration="8002000" />
+      <workItem from="1586717193077" duration="8421000" />
+      <workItem from="1586726107242" duration="336000" />
+      <workItem from="1586726711417" duration="3556000" />
+      <workItem from="1586730450801" duration="401000" />
+      <workItem from="1586780283067" duration="14200000" />
+      <workItem from="1586804216137" duration="12246000" />
+      <workItem from="1586855432575" duration="34000" />
+      <workItem from="1586862773202" duration="10301000" />
+      <workItem from="1586991069645" duration="670000" />
+      <workItem from="1587041887852" duration="6640000" />
+      <workItem from="1587048764340" duration="924000" />
+      <workItem from="1587340230523" duration="39000" />
+      <workItem from="1587340313064" duration="97000" />
+      <workItem from="1587402697633" duration="2603000" />
+      <workItem from="1587405883053" duration="8719000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Project_Structure" timestamp="1585907629870">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Project_Structure/1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1585907629870" />
+    <state x="499" y="168" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1586710268191">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="168" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1586710268191" />
+    <state x="0" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586807020610">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1586807020610" />
+    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1587338062228">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1587338062228" />
+    <state x="618" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586855444151">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="618" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1586855444151" />
+    <state x="566" y="298" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586868932881">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="298" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1586868932881" />
+    <state x="165" y="171" key="FileChooserDialogImpl" timestamp="1586807758301">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="165" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586807758301" />
+    <state width="722" height="205" key="GridCell.Tab.0.bottom" timestamp="1587412627932">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="722" height="205" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587412627932" />
+    <state width="722" height="205" key="GridCell.Tab.0.center" timestamp="1587412627930">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="722" height="205" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587412627930" />
+    <state width="722" height="205" key="GridCell.Tab.0.left" timestamp="1587412627928">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="722" height="205" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587412627928" />
+    <state width="722" height="205" key="GridCell.Tab.0.right" timestamp="1587412627931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="722" height="205" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587412627931" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1587339114031">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587339114031" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1587339114031">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587339114031" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1587339114031">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587339114031" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1587339114031">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587339114031" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1587051337492">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587051337492" />
+    <state x="330" y="149" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1587048272879">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="330" y="149" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1587048272879" />
+    <state x="426" y="187" key="run.anything.popup" timestamp="1587414027495">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="426" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1587414027495" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Player.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Player.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GraGUI.java</url>
+          <line>197</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Player.java</url>
+          <line>140</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/_Draw_It_Project$Player.ic" NAME="Player Coverage Results" MODIFIED="1586784738792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
